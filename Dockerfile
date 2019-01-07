@@ -1,2 +1,2 @@
-FROM quay.io/jetstack/cert-manager-controller:latest
+FROM quay.io/jetstack/cert-manager-controller:v0.5.2
 LABEL maintainer=tellxp@github.com
